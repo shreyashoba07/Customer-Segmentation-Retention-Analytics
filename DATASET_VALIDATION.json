@@ -1,0 +1,16 @@
+{
+  "records": 300,
+  "columns": 20,
+  "unique_customer_ids": 300,
+  "missing_cells": 0,
+  "retention_status_counts": {
+    "Retained": 161,
+    "At Risk": 117,
+    "Churned": 22
+  },
+  "segments": {
+    "Mid Value": 142,
+    "Low Value": 128,
+    "High Value": 30
+  }
+}

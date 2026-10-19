@@ -1,0 +1,11 @@
+# Power BI
+*.tmp
+*.bak
+~$*.pbix
+
+# Local files
+.env
+.DS_Store
+Thumbs.db
+
+# Keep screenshots and the final report in the repository when intentionally added.

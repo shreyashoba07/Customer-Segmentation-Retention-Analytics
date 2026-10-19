@@ -1,0 +1,301 @@
+﻿Customer ID,Customer Name,Age,Gender,City/Region,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value,Total Spend,Preferred Product Category,Purchase Channel,Customer Type,Engagement Score,Satisfaction Score,Retention Status,Customer Segment,Loyalty Tier
+CUST0001,Neel Khan,20,Female,Mysuru,Healthcare,Low,2022-12-20,2026-08-02,2,7135.19,12450.13,Sports,App,Returning,84,2,At Risk,Low Value,Bronze
+CUST0002,Kiran Khan,39,Non-binary,Chennai,Healthcare,Middle,2026-05-28,2026-10-06,6,6901.58,45577.86,Electronics,Online,New,15,3,At Risk,Mid Value,Silver
+CUST0003,Tara Iyer,58,Non-binary,Mangaluru,Healthcare,High,2024-06-03,2026-09-24,2,8104.57,17049.79,Electronics,Online,Returning,63,2,Retained,Low Value,Bronze
+CUST0004,Meera Reddy,40,Male,Mumbai,IT Professional,High,2022-11-05,2026-10-12,3,2997.9,7104.09,Books,Online,Returning,96,4,Retained,Low Value,Bronze
+CUST0005,Aditi Pillai,20,Non-binary,Delhi,Business Owner,Low,2023-07-24,2026-09-20,10,1845.13,17339.2,Fashion,App,Returning,56,2,Retained,Mid Value,Bronze
+CUST0006,Sneha Shetty,45,Prefer not to say,Pune,Healthcare,Low,2024-10-15,2026-09-29,3,4917.97,17591.7,Sports,Offline,Returning,86,4,Retained,Low Value,Bronze
+CUST0007,Myra Das,51,Non-binary,Coimbatore,Student,High,2026-01-16,2026-07-30,10,8229.09,68006.9,Books,Online,New,64,5,At Risk,Mid Value,Gold
+CUST0008,Dev Mehta,29,Female,Mumbai,Government,High,2022-09-24,2026-10-09,15,7220.53,122853.64,Fashion,Online,Returning,15,4,At Risk,High Value,Platinum
+CUST0009,Kavya Verma,69,Non-binary,Hyderabad,Student,Low,2024-06-16,2026-10-03,10,5285.32,60216.35,Sports,Online,Returning,17,2,At Risk,Mid Value,Gold
+CUST0010,Arjun Joshi,56,Prefer not to say,Hyderabad,Government,High,2026-01-27,2026-07-31,10,7816.61,96847.19,Books,Online,New,85,3,At Risk,High Value,Gold
+CUST0011,Aarav Shetty,53,Male,Mangaluru,Healthcare,Low,2024-10-21,2026-09-21,5,6495.94,30424.07,Electronics,App,Returning,23,4,At Risk,Mid Value,Silver
+CUST0012,Tara Patel,64,Prefer not to say,Hyderabad,Designer,Middle,2023-01-06,2026-10-09,2,966.71,1480.43,Fashion,Online,Returning,77,3,Retained,Low Value,Bronze
+CUST0013,Diya Khan,64,Non-binary,Mysuru,Healthcare,Low,2026-01-04,2026-08-03,8,3591.82,27457.34,Fashion,App,New,97,2,At Risk,Mid Value,Silver
+CUST0014,Diya Kulkarni,52,Female,Mysuru,Healthcare,Low,2024-01-15,2026-07-11,3,2028.92,5973.02,Beauty,Offline,Returning,85,2,At Risk,Low Value,Bronze
+CUST0015,Nisha Singh,64,Prefer not to say,Chennai,Healthcare,Middle,2023-11-09,2026-02-13,3,4019.52,9397.45,Fashion,Online,Returning,73,4,Churned,Low Value,Bronze
+CUST0016,Diya Joshi,23,Male,Mysuru,Other,Low,2023-04-22,2026-05-20,10,907.76,8231.59,Books,Online,Returning,82,3,At Risk,Mid Value,Bronze
+CUST0017,Arjun Nair,60,Non-binary,Hyderabad,Business Owner,Middle,2024-04-16,2026-09-30,2,8496.13,14836.07,Fashion,App,Returning,89,4,Retained,Low Value,Bronze
+CUST0018,Tara Nair,50,Non-binary,Chennai,Engineer,Low,2022-12-08,2025-11-13,4,3243.02,14605.68,Fashion,Offline,Returning,27,2,Churned,Low Value,Bronze
+CUST0019,Pooja Rao,26,Non-binary,Mysuru,IT Professional,High,2024-12-15,2026-09-30,3,7978.77,26372.31,Sports,Online,Returning,85,4,Retained,Low Value,Silver
+CUST0020,Rahul Khan,35,Female,Bengaluru,Engineer,Low,2025-01-10,2026-08-09,4,2277.26,8393.44,Books,Offline,Returning,21,2,At Risk,Low Value,Bronze
+CUST0021,Kavya Shetty,53,Male,Delhi,Teacher,Low,2025-08-25,2026-07-11,10,5397.88,52027.11,Home & Kitchen,Offline,Returning,84,2,At Risk,Mid Value,Silver
+CUST0022,Meera Mehta,69,Male,Delhi,Student,Low,2026-05-01,2026-01-07,15,2272.2,29814.61,Books,Offline,New,34,3,Churned,Mid Value,Silver
+CUST0023,Aditi Nair,70,Prefer not to say,Pune,Business Owner,Low,2024-03-30,2026-10-11,12,8256.19,114467.91,Fashion,Online,Returning,19,5,At Risk,High Value,Platinum
+CUST0024,Aarav Rao,34,Male,Mangaluru,Business Owner,Low,2022-11-08,2026-07-31,3,3353.6,11893.64,Electronics,App,Returning,66,4,At Risk,Low Value,Bronze
+CUST0025,Aarav Joshi,69,Male,Pune,Analyst,Low,2024-02-13,2026-10-03,4,7545.82,29223.36,Books,Offline,Returning,20,5,At Risk,Low Value,Silver
+CUST0026,Tara Patel,30,Prefer not to say,Delhi,Teacher,High,2023-01-22,2026-10-10,4,8109.34,36001.48,Sports,Offline,Returning,66,4,Retained,Mid Value,Silver
+CUST0027,Advik Kulkarni,31,Prefer not to say,Chennai,IT Professional,Middle,2024-04-11,2026-07-30,6,353.71,1896.15,Sports,App,Returning,74,5,At Risk,Mid Value,Bronze
+CUST0028,Diya Nair,48,Female,Kochi,Analyst,High,2023-01-02,2026-06-11,8,1204.49,11813.64,Sports,Online,Returning,33,2,At Risk,Mid Value,Bronze
+CUST0029,Diya Joshi,33,Female,Kochi,Teacher,Middle,2024-05-26,2026-10-19,6,2582.46,16703.8,Books,App,Returning,81,5,Retained,Mid Value,Bronze
+CUST0030,Meera Singh,48,Prefer not to say,Mumbai,Healthcare,High,2023-06-03,2026-05-17,8,9042.86,86501.32,Home & Kitchen,App,Returning,85,5,At Risk,High Value,Gold
+CUST0031,Ishaan Patel,32,Prefer not to say,Chennai,Healthcare,Low,2023-11-02,2026-10-10,8,2862.57,18062.63,Beauty,Offline,Returning,84,2,Retained,Mid Value,Bronze
+CUST0032,Ira Sharma,40,Non-binary,Delhi,Analyst,High,2024-09-12,2026-10-06,6,4154.33,21272.26,Books,App,Returning,88,5,Retained,Mid Value,Bronze
+CUST0033,Sneha Patel,47,Male,Mangaluru,Government,Low,2023-06-29,2026-10-11,12,8564.97,102174.75,Beauty,App,Returning,100,5,Retained,High Value,Platinum
+CUST0034,Advik Reddy,39,Prefer not to say,Mumbai,Analyst,Middle,2023-05-23,2026-09-22,8,1118.12,8625.68,Grocery,Online,Returning,56,3,Retained,Mid Value,Bronze
+CUST0035,Aman Sharma,33,Male,Bengaluru,Other,Low,2023-12-01,2026-04-28,1,5285.68,6606.86,Fashion,Online,Returning,98,2,At Risk,Low Value,Bronze
+CUST0036,Sana Rao,55,Female,Mumbai,Other,High,2023-11-25,2026-09-02,8,5510.32,37866.14,Beauty,Offline,Returning,29,3,At Risk,Mid Value,Silver
+CUST0037,Kavya Joshi,45,Non-binary,Mysuru,Government,High,2025-06-10,2026-08-05,2,6669.12,14186.83,Home & Kitchen,Online,Returning,30,2,At Risk,Low Value,Bronze
+CUST0038,Myra Mehta,52,Prefer not to say,Kochi,Analyst,High,2024-03-13,2026-09-29,12,1315.68,19425.65,Sports,Offline,Returning,81,4,Retained,Mid Value,Bronze
+CUST0039,Vivaan Sharma,49,Non-binary,Chennai,Designer,Low,2024-09-29,2026-08-21,12,7951.19,75695.15,Home & Kitchen,Offline,Returning,100,5,Retained,Mid Value,Gold
+CUST0040,Tara Mehta,33,Prefer not to say,Kochi,Designer,Low,2024-08-23,2026-10-02,4,5804.82,27632.19,Electronics,Offline,Returning,67,5,Retained,Low Value,Silver
+CUST0041,Kavya Singh,47,Non-binary,Mumbai,Business Owner,Low,2025-04-24,2026-10-08,5,2576.24,13937.2,Electronics,App,Returning,85,4,Retained,Mid Value,Bronze
+CUST0042,Ananya Pillai,30,Non-binary,Hyderabad,Engineer,Low,2025-06-22,2026-09-07,4,7147.36,35034.61,Home & Kitchen,Online,Returning,50,4,Retained,Mid Value,Silver
+CUST0043,Aarav Shetty,36,Prefer not to say,Kochi,Designer,Middle,2023-07-24,2026-07-04,2,766.47,1191.5,Fashion,Online,Returning,77,2,At Risk,Low Value,Bronze
+CUST0044,Ishaan Mehta,54,Non-binary,Mysuru,Healthcare,Low,2025-02-19,2026-08-18,20,4721.22,109632.19,Sports,Offline,Returning,21,3,At Risk,High Value,Platinum
+CUST0045,Neel Shetty,21,Female,Hyderabad,Healthcare,Middle,2023-02-26,2026-05-25,8,6008.53,54694.29,Books,Online,Returning,69,4,At Risk,Mid Value,Silver
+CUST0046,Sana Singh,36,Prefer not to say,Mysuru,Healthcare,Middle,2025-09-03,2026-08-21,4,5400.73,17892.97,Grocery,App,Returning,19,3,At Risk,Low Value,Bronze
+CUST0047,Diya Patel,68,Non-binary,Mangaluru,Other,Middle,2023-04-01,2026-04-29,8,8893.07,68481.58,Beauty,Online,Returning,33,2,At Risk,Mid Value,Gold
+CUST0048,Sneha Reddy,56,Non-binary,Bengaluru,IT Professional,Low,2023-12-05,2026-10-03,8,6752.56,65977.27,Books,App,Returning,20,5,At Risk,Mid Value,Gold
+CUST0049,Arjun Patel,55,Prefer not to say,Kochi,IT Professional,Middle,2023-04-06,2026-08-13,20,9496.09,206281.81,Home & Kitchen,Offline,Returning,98,5,Retained,High Value,Platinum
+CUST0050,Advik Rao,38,Non-binary,Pune,IT Professional,Middle,2024-09-07,2026-08-05,4,1307.09,4341.7,Grocery,App,Returning,66,2,Retained,Low Value,Bronze
+CUST0051,Aman Sharma,31,Non-binary,Coimbatore,Teacher,Middle,2026-07-19,2026-06-04,8,5314.73,40673.58,Beauty,App,New,95,5,At Risk,Mid Value,Silver
+CUST0052,Rohan Nair,25,Prefer not to say,Mysuru,Teacher,Middle,2023-11-02,2026-08-04,2,9254.29,19516.11,Books,Offline,Returning,85,5,At Risk,Low Value,Bronze
+CUST0053,Rohan Iyer,67,Prefer not to say,Pune,Government,Middle,2023-09-13,2026-10-04,10,4151.74,41154.11,Grocery,Online,Returning,39,3,Retained,Mid Value,Silver
+CUST0054,Tara Mehta,52,Prefer not to say,Kochi,Engineer,Low,2024-12-19,2026-08-18,10,8012.9,83331.09,Books,Online,Returning,59,4,Retained,High Value,Gold
+CUST0055,Ira Sharma,26,Non-binary,Mysuru,Designer,Low,2023-05-07,2026-10-09,5,8182.52,39087.39,Sports,Offline,Returning,99,3,Retained,Mid Value,Silver
+CUST0056,Vivaan Pillai,61,Prefer not to say,Pune,Designer,High,2026-06-20,2026-10-15,10,4101.3,44187.02,Electronics,App,New,65,2,Retained,Mid Value,Silver
+CUST0057,Advik Patel,62,Non-binary,Bengaluru,Student,Middle,2026-03-03,2025-12-31,4,6612.26,23637.23,Grocery,Online,New,96,2,Churned,Low Value,Bronze
+CUST0058,Myra Kulkarni,33,Prefer not to say,Mangaluru,Teacher,Low,2024-11-28,2026-10-06,5,4290.78,18709.92,Beauty,App,Returning,25,5,At Risk,Mid Value,Bronze
+CUST0059,Kavya Shetty,37,Prefer not to say,Mumbai,Designer,Middle,2025-02-16,2026-07-23,5,6451.59,38691.94,Fashion,Offline,Returning,24,5,At Risk,Mid Value,Silver
+CUST0060,Arjun Sharma,54,Female,Mangaluru,Designer,Middle,2023-11-05,2026-04-16,2,3839.48,7137.44,Grocery,Online,Returning,99,5,Churned,Low Value,Bronze
+CUST0061,Rahul Kulkarni,20,Non-binary,Kochi,Student,High,2023-02-24,2026-04-27,12,2353.89,23870.31,Home & Kitchen,App,Returning,95,2,At Risk,Mid Value,Bronze
+CUST0062,Meera Iyer,70,Prefer not to say,Mumbai,Engineer,Low,2025-10-25,2026-07-04,2,3050.26,6855.4,Beauty,Online,New,61,4,At Risk,Low Value,Bronze
+CUST0063,Arjun Joshi,25,Prefer not to say,Pune,Business Owner,High,2025-10-06,2026-09-28,10,2414.37,26272.25,Beauty,App,Returning,65,2,Retained,Mid Value,Silver
+CUST0064,Kiran Iyer,59,Prefer not to say,Mysuru,Teacher,Low,2024-06-21,2026-09-21,2,2489.47,3796.5,Electronics,Offline,Returning,23,5,At Risk,Low Value,Bronze
+CUST0065,Neel Singh,64,Male,Delhi,IT Professional,Middle,2023-10-17,2025-11-01,2,2498.42,5090.65,Sports,Offline,Returning,84,5,Churned,Low Value,Bronze
+CUST0066,Diya Khan,35,Male,Mysuru,Designer,Low,2024-12-26,2026-03-27,1,3740.35,3634.47,Books,Online,Returning,62,4,Churned,Low Value,Bronze
+CUST0067,Neel Nair,70,Male,Pune,Teacher,High,2022-12-15,2026-10-09,8,9235.5,57281.47,Electronics,Offline,Returning,85,3,Retained,Mid Value,Silver
+CUST0068,Aarav Patel,34,Female,Chennai,Analyst,High,2025-09-28,2026-10-16,20,5292.97,121659.65,Electronics,App,Returning,45,4,Retained,High Value,Platinum
+CUST0069,Advik Kulkarni,19,Female,Kochi,Analyst,Middle,2026-03-13,2026-02-24,6,7468.86,45109.78,Books,Online,New,20,4,Churned,Mid Value,Silver
+CUST0070,Reyansh Shetty,51,Non-binary,Kochi,Government,High,2023-10-21,2026-10-09,10,4408.6,52887.04,Beauty,Online,Returning,94,4,Retained,Mid Value,Silver
+CUST0071,Vivaan Pillai,47,Prefer not to say,Delhi,IT Professional,Middle,2025-11-29,2026-07-25,12,6305.89,85846.98,Beauty,Offline,New,44,5,At Risk,High Value,Gold
+CUST0072,Ishaan Joshi,21,Non-binary,Mysuru,Analyst,Middle,2022-10-28,2026-10-04,4,9075.37,39692.42,Grocery,App,Returning,27,4,At Risk,Mid Value,Silver
+CUST0073,Pooja Das,32,Female,Pune,Government,Middle,2024-03-07,2026-08-30,15,6947.71,128622.88,Electronics,Offline,Returning,42,3,Retained,High Value,Platinum
+CUST0074,Myra Verma,60,Non-binary,Bengaluru,Teacher,Middle,2023-05-03,2026-07-28,3,4276.38,13220.21,Books,Offline,Returning,86,2,At Risk,Low Value,Bronze
+CUST0075,Sneha Joshi,31,Prefer not to say,Delhi,Designer,Middle,2024-08-25,2026-08-24,5,2009.86,8256.76,Fashion,Offline,Returning,18,2,At Risk,Mid Value,Bronze
+CUST0076,Pooja Rao,35,Prefer not to say,Delhi,Designer,High,2024-10-21,2026-10-17,10,7458.05,77101.08,Beauty,Offline,Returning,94,2,Retained,Mid Value,Gold
+CUST0077,Diya Nair,43,Female,Bengaluru,Healthcare,Middle,2025-01-08,2026-08-31,3,5037.97,13943.89,Fashion,Online,Returning,82,4,Retained,Low Value,Bronze
+CUST0078,Rohan Khan,65,Female,Delhi,Student,Middle,2025-02-13,2026-09-07,4,1447.86,5783.87,Electronics,Offline,Returning,44,4,Retained,Low Value,Bronze
+CUST0079,Kiran Verma,41,Female,Delhi,IT Professional,Low,2023-04-29,2026-04-16,5,4050.47,21671.45,Beauty,App,Returning,36,5,Churned,Mid Value,Bronze
+CUST0080,Dev Joshi,30,Non-binary,Pune,Teacher,Low,2024-04-22,2026-10-09,6,3971.27,21567.27,Electronics,Online,Returning,96,2,Retained,Mid Value,Bronze
+CUST0081,Pooja Verma,54,Non-binary,Pune,Teacher,Middle,2025-02-12,2026-09-14,3,5861.95,19873.9,Electronics,Offline,Returning,87,5,Retained,Low Value,Bronze
+CUST0082,Kavya Pillai,36,Female,Mysuru,Other,High,2024-01-28,2026-08-17,8,7636.42,63883.84,Sports,Offline,Returning,19,2,At Risk,Mid Value,Gold
+CUST0083,Dev Patel,21,Prefer not to say,Mysuru,Engineer,High,2023-12-17,2026-10-18,6,9081.22,60996.4,Electronics,App,Returning,92,5,Retained,Mid Value,Gold
+CUST0084,Reyansh Khan,67,Non-binary,Mangaluru,Student,High,2022-12-06,2026-10-05,3,2616.86,7606.26,Books,Offline,Returning,62,4,Retained,Low Value,Bronze
+CUST0085,Neel Kulkarni,27,Non-binary,Mumbai,Analyst,Low,2026-03-09,2026-04-27,4,5455.36,20583.77,Sports,App,New,57,2,At Risk,Low Value,Bronze
+CUST0086,Rahul Kulkarni,45,Non-binary,Bengaluru,Engineer,Middle,2026-01-29,2026-04-26,4,3796.62,17401.14,Fashion,Online,New,82,2,At Risk,Low Value,Bronze
+CUST0087,Pooja Reddy,67,Male,Mangaluru,Analyst,Low,2024-08-21,2026-07-11,20,4799.38,82863.36,Fashion,Online,Returning,27,2,At Risk,High Value,Gold
+CUST0088,Aman Singh,68,Prefer not to say,Hyderabad,Government,Low,2023-01-19,2026-02-20,12,1864.68,21678.85,Home & Kitchen,Offline,Returning,93,4,Churned,Mid Value,Bronze
+CUST0089,Kabir Mehta,56,Male,Mumbai,Student,High,2025-06-19,2026-07-31,5,9016.24,56000.76,Beauty,Offline,Returning,68,3,At Risk,Mid Value,Silver
+CUST0090,Nisha Rao,32,Prefer not to say,Pune,Student,Middle,2023-06-12,2026-10-16,20,6859.32,138277.68,Electronics,Offline,Returning,80,3,Retained,High Value,Platinum
+CUST0091,Ishaan Patel,20,Non-binary,Kochi,Teacher,High,2023-09-27,2026-06-10,5,3883.42,15355.1,Beauty,Offline,Returning,98,4,At Risk,Mid Value,Bronze
+CUST0092,Aditi Iyer,25,Female,Hyderabad,Analyst,High,2023-02-07,2026-09-09,1,1074.92,943.74,Grocery,App,Returning,29,4,At Risk,Low Value,Bronze
+CUST0093,Nisha Sharma,57,Non-binary,Hyderabad,Other,Middle,2023-12-28,2026-09-17,2,8005.69,16010.01,Fashion,App,Returning,33,4,At Risk,Low Value,Bronze
+CUST0094,Diya Kulkarni,42,Non-binary,Mumbai,Student,Middle,2022-10-22,2026-08-15,2,9268.09,14529.39,Grocery,Online,Returning,64,5,Retained,Low Value,Bronze
+CUST0095,Rahul Patel,67,Prefer not to say,Kochi,Teacher,Low,2024-08-14,2026-10-01,4,6362.51,20406.65,Electronics,App,Returning,84,4,Retained,Low Value,Bronze
+CUST0096,Arjun Sharma,66,Male,Mumbai,Engineer,Low,2023-12-27,2026-09-16,1,2194.56,2513.99,Grocery,App,Returning,84,5,Retained,Low Value,Bronze
+CUST0097,Kiran Das,41,Non-binary,Mysuru,Analyst,Low,2024-09-10,2026-10-07,4,7663.98,29689.51,Beauty,App,Returning,38,5,Retained,Low Value,Silver
+CUST0098,Kiran Das,40,Prefer not to say,Bengaluru,Engineer,High,2025-07-17,2026-08-31,6,3289.08,15590.92,Beauty,Offline,Returning,69,3,Retained,Mid Value,Bronze
+CUST0099,Ishaan Pillai,56,Prefer not to say,Bengaluru,Teacher,Low,2022-12-20,2026-06-04,20,9023.33,142121.16,Fashion,App,Returning,35,2,At Risk,High Value,Platinum
+CUST0100,Dev Reddy,43,Non-binary,Mumbai,Healthcare,Low,2024-07-01,2026-10-15,5,9037.62,34622.79,Electronics,App,Returning,24,3,At Risk,Mid Value,Silver
+CUST0101,Kiran Verma,49,Male,Mysuru,Teacher,Low,2025-07-05,2026-10-11,6,3890.93,24065.47,Beauty,Online,Returning,93,4,Retained,Mid Value,Bronze
+CUST0102,Meera Singh,63,Male,Pune,Government,Low,2024-01-22,2026-08-07,20,7766.2,191635.74,Electronics,Online,Returning,52,4,Retained,High Value,Platinum
+CUST0103,Sana Khan,63,Prefer not to say,Coimbatore,Analyst,Middle,2025-10-10,2026-10-01,4,4870.3,18126.25,Grocery,App,Returning,26,2,At Risk,Low Value,Bronze
+CUST0104,Aman Patel,45,Female,Mysuru,Government,Low,2026-02-20,2026-10-05,2,3250.8,5117.3,Home & Kitchen,Online,New,85,3,Retained,Low Value,Bronze
+CUST0105,Ishaan Kulkarni,37,Female,Coimbatore,Teacher,High,2025-08-24,2026-09-19,4,6840.39,25255.04,Sports,Online,Returning,96,4,Retained,Low Value,Silver
+CUST0106,Diya Kulkarni,67,Non-binary,Hyderabad,Other,Middle,2025-08-05,2026-05-09,8,6943.79,58470.57,Sports,App,Returning,18,2,At Risk,Mid Value,Silver
+CUST0107,Advik Rao,62,Female,Chennai,Designer,Middle,2026-05-20,2026-05-20,6,6088.55,32689.52,Beauty,Offline,New,66,4,At Risk,Mid Value,Silver
+CUST0108,Vivaan Nair,47,Female,Mumbai,Designer,Low,2025-05-30,2026-10-09,4,1664.57,7861.71,Fashion,Online,Returning,62,2,Retained,Low Value,Bronze
+CUST0109,Aman Patel,49,Prefer not to say,Kochi,Business Owner,Middle,2026-04-09,2026-01-28,4,3864.97,16351.74,Electronics,Online,New,55,3,Churned,Low Value,Bronze
+CUST0110,Sana Joshi,18,Female,Delhi,Teacher,Middle,2024-05-07,2026-09-15,6,9195.18,47313.19,Books,Offline,Returning,98,5,Retained,Mid Value,Silver
+CUST0111,Aman Joshi,35,Female,Chennai,IT Professional,Middle,2024-04-17,2026-10-13,5,4015.32,20782.11,Home & Kitchen,Offline,Returning,79,5,Retained,Mid Value,Bronze
+CUST0112,Ira Joshi,47,Male,Mangaluru,Government,Low,2023-06-05,2026-10-03,20,7257.93,123316.43,Home & Kitchen,App,Returning,32,4,At Risk,High Value,Platinum
+CUST0113,Kiran Shetty,37,Prefer not to say,Bengaluru,Engineer,Middle,2024-10-07,2026-06-07,3,9414.13,31621.87,Books,Online,Returning,83,5,At Risk,Mid Value,Silver
+CUST0114,Sneha Sharma,55,Prefer not to say,Chennai,Government,High,2024-03-20,2026-08-09,6,7640.31,51006.5,Books,App,Returning,98,3,Retained,Mid Value,Silver
+CUST0115,Ishaan Khan,62,Male,Delhi,Government,High,2024-06-03,2026-09-19,3,6578.65,15113.5,Beauty,App,Returning,55,5,Retained,Low Value,Bronze
+CUST0116,Tara Reddy,52,Non-binary,Mumbai,Other,Middle,2026-03-16,2026-09-28,10,5095.95,52510.88,Fashion,Online,New,37,5,Retained,Mid Value,Silver
+CUST0117,Ira Reddy,53,Non-binary,Mumbai,IT Professional,High,2024-12-27,2026-07-31,6,2407.53,17860.82,Books,App,Returning,77,4,At Risk,Mid Value,Bronze
+CUST0118,Advik Kulkarni,34,Prefer not to say,Hyderabad,Healthcare,High,2024-06-04,2026-09-25,15,3959.97,54800.08,Home & Kitchen,App,Returning,25,4,At Risk,Mid Value,Silver
+CUST0119,Ananya Khan,39,Prefer not to say,Mysuru,Teacher,Low,2025-01-11,2026-10-12,3,5983.44,18729.64,Sports,Online,Returning,44,2,Retained,Low Value,Bronze
+CUST0120,Rahul Shetty,32,Female,Chennai,Analyst,Low,2024-04-09,2026-09-29,8,8407.92,66446.1,Electronics,Offline,Returning,22,2,At Risk,Mid Value,Gold
+CUST0121,Vivaan Iyer,47,Prefer not to say,Chennai,Government,Middle,2023-10-11,2026-10-10,3,7203.38,25632.77,Home & Kitchen,Online,Returning,92,2,Retained,Low Value,Silver
+CUST0122,Meera Shetty,58,Prefer not to say,Delhi,Government,Middle,2025-12-03,2026-07-19,4,7039.74,30246.74,Electronics,Offline,New,87,3,At Risk,Mid Value,Silver
+CUST0123,Vivaan Iyer,55,Female,Mumbai,Engineer,High,2022-10-20,2026-09-20,2,9332.42,18454.43,Fashion,Online,Returning,72,4,Retained,Low Value,Bronze
+CUST0124,Myra Nair,32,Male,Kochi,Teacher,Middle,2022-10-23,2026-10-03,2,3157.28,6015.93,Books,App,Returning,52,4,Retained,Low Value,Bronze
+CUST0125,Dev Das,51,Non-binary,Mysuru,Other,Low,2024-06-16,2026-04-26,5,5375.5,26485.47,Electronics,App,Returning,91,2,At Risk,Mid Value,Silver
+CUST0126,Rohan Verma,50,Prefer not to say,Bengaluru,Designer,Low,2023-09-20,2026-08-16,3,5260.44,13134.3,Sports,Offline,Returning,89,5,Retained,Low Value,Bronze
+CUST0127,Neel Rao,20,Prefer not to say,Pune,IT Professional,High,2023-12-29,2026-10-10,6,5462.99,35609.42,Electronics,Online,Returning,15,3,At Risk,Mid Value,Silver
+CUST0128,Reyansh Khan,23,Male,Pune,IT Professional,Low,2023-11-28,2026-09-25,1,4091.13,4641.33,Sports,Offline,Returning,63,5,Retained,Low Value,Bronze
+CUST0129,Tara Khan,70,Male,Hyderabad,Designer,Middle,2023-08-03,2026-09-17,2,9305.33,21726.29,Fashion,Offline,Returning,84,5,Retained,Low Value,Bronze
+CUST0130,Kabir Rao,24,Female,Kochi,Other,High,2025-06-30,2026-05-28,20,6983.97,112640.59,Books,Online,Returning,17,3,At Risk,High Value,Platinum
+CUST0131,Sneha Shetty,38,Non-binary,Hyderabad,Business Owner,Low,2025-03-07,2026-08-01,10,4030.73,34953.27,Books,App,Returning,52,3,At Risk,Mid Value,Silver
+CUST0132,Diya Reddy,59,Prefer not to say,Coimbatore,Engineer,High,2025-04-25,2026-07-24,5,2867.66,14744.92,Beauty,Offline,Returning,86,5,At Risk,Mid Value,Bronze
+CUST0133,Diya Joshi,44,Prefer not to say,Coimbatore,Government,Low,2025-09-19,2026-06-22,4,2032.49,8284.14,Beauty,Online,Returning,33,5,At Risk,Low Value,Bronze
+CUST0134,Arjun Khan,61,Female,Mysuru,Healthcare,High,2025-02-14,2026-08-26,3,6267.36,22771.44,Books,App,Returning,39,2,Retained,Low Value,Bronze
+CUST0135,Aditi Singh,56,Male,Delhi,Healthcare,High,2023-06-03,2026-02-26,3,2261.34,8164.68,Home & Kitchen,Offline,Returning,30,5,Churned,Low Value,Bronze
+CUST0136,Kabir Reddy,38,Prefer not to say,Bengaluru,Other,Low,2024-06-02,2026-10-08,5,6285.8,28418.45,Books,Online,Returning,75,4,Retained,Mid Value,Silver
+CUST0137,Ira Joshi,59,Non-binary,Mumbai,Designer,High,2026-06-18,2026-10-06,4,8903.04,37021.39,Books,App,New,63,3,Retained,Mid Value,Silver
+CUST0138,Dev Sharma,22,Female,Bengaluru,Analyst,Low,2023-10-21,2026-10-15,5,7054.87,32667.16,Grocery,App,Returning,84,2,Retained,Mid Value,Silver
+CUST0139,Pooja Das,19,Female,Coimbatore,Government,Middle,2025-04-04,2026-08-26,2,1731.92,2976.68,Electronics,Online,Returning,93,5,Retained,Low Value,Bronze
+CUST0140,Ananya Joshi,27,Male,Hyderabad,Other,High,2023-08-02,2026-10-03,10,5252.0,46918.44,Home & Kitchen,Offline,Returning,37,2,Retained,Mid Value,Silver
+CUST0141,Rohan Khan,42,Prefer not to say,Coimbatore,Designer,Low,2025-01-20,2026-10-05,12,1073.03,15833.4,Books,Online,Returning,25,2,At Risk,Mid Value,Bronze
+CUST0142,Kiran Verma,54,Prefer not to say,Mumbai,Student,Low,2025-08-05,2026-07-08,2,8084.77,17341.08,Books,Offline,Returning,44,3,At Risk,Low Value,Bronze
+CUST0143,Sana Patel,54,Male,Mangaluru,Analyst,High,2023-07-05,2026-10-09,6,651.05,4743.75,Sports,Offline,Returning,65,2,Retained,Mid Value,Bronze
+CUST0144,Rohan Reddy,56,Prefer not to say,Pune,Student,High,2024-05-26,2026-09-26,10,1630.55,20287.94,Home & Kitchen,Offline,Returning,70,3,Retained,Mid Value,Bronze
+CUST0145,Aditi Singh,22,Female,Mumbai,Teacher,Middle,2023-10-21,2026-10-14,3,5410.3,15219.93,Books,App,Returning,94,4,Retained,Low Value,Bronze
+CUST0146,Rohan Patel,45,Prefer not to say,Coimbatore,Government,High,2025-09-09,2026-05-25,10,3247.61,26087.25,Beauty,Online,Returning,28,3,At Risk,Mid Value,Silver
+CUST0147,Sneha Verma,53,Male,Mangaluru,Government,Low,2026-05-29,2026-09-24,2,5421.11,11367.66,Books,Offline,New,64,2,Retained,Low Value,Bronze
+CUST0148,Kavya Iyer,33,Prefer not to say,Mangaluru,Other,Low,2025-08-08,2026-10-17,3,3105.35,9284.02,Beauty,Online,Returning,76,2,Retained,Low Value,Bronze
+CUST0149,Sana Reddy,56,Male,Kochi,Engineer,Low,2025-10-17,2026-09-30,4,9031.73,33096.18,Beauty,Offline,Returning,98,3,Retained,Mid Value,Silver
+CUST0150,Ananya Verma,54,Male,Mangaluru,Government,Low,2024-12-02,2026-09-24,10,6141.06,75773.41,Books,App,Returning,65,4,Retained,Mid Value,Gold
+CUST0151,Ishaan Kulkarni,37,Male,Mumbai,Teacher,High,2026-05-27,2026-10-05,20,4573.84,101007.18,Beauty,Offline,New,67,5,Retained,High Value,Platinum
+CUST0152,Ananya Mehta,33,Non-binary,Chennai,Other,Low,2026-02-20,2026-08-17,5,5821.09,30302.32,Sports,App,New,61,2,Retained,Mid Value,Silver
+CUST0153,Advik Reddy,43,Prefer not to say,Mangaluru,Government,Low,2022-10-03,2026-09-24,8,9196.32,67375.8,Home & Kitchen,Online,Returning,43,3,Retained,Mid Value,Gold
+CUST0154,Dev Das,40,Prefer not to say,Mysuru,Designer,High,2023-11-06,2026-10-16,2,4156.18,10231.38,Books,Offline,Returning,73,3,Retained,Low Value,Bronze
+CUST0155,Dev Patel,53,Male,Pune,Government,Middle,2024-10-06,2026-10-19,2,758.85,1677.65,Beauty,Online,Returning,36,3,Retained,Low Value,Bronze
+CUST0156,Aarav Singh,31,Male,Mumbai,IT Professional,High,2024-04-13,2026-10-07,8,2055.44,17736.87,Electronics,App,Returning,69,5,Retained,Mid Value,Bronze
+CUST0157,Myra Khan,55,Female,Pune,Engineer,Middle,2025-07-04,2025-12-07,5,2153.23,8688.04,Sports,Online,Returning,55,5,Churned,Mid Value,Bronze
+CUST0158,Meera Reddy,62,Male,Coimbatore,Analyst,Middle,2022-10-11,2026-10-17,10,3071.62,32474.46,Sports,Online,Returning,54,2,Retained,Mid Value,Silver
+CUST0159,Ishaan Patel,38,Prefer not to say,Mangaluru,Student,Middle,2023-05-01,2026-07-22,5,2049.65,10942.58,Electronics,Offline,Returning,77,4,At Risk,Mid Value,Bronze
+CUST0160,Meera Rao,54,Female,Hyderabad,Business Owner,Low,2025-10-15,2026-08-18,3,3863.09,11946.12,Home & Kitchen,Online,Returning,71,5,Retained,Low Value,Bronze
+CUST0161,Arjun Mehta,52,Non-binary,Coimbatore,Student,High,2023-07-16,2026-07-31,4,7493.77,30959.02,Beauty,App,Returning,88,2,At Risk,Mid Value,Silver
+CUST0162,Advik Pillai,25,Male,Hyderabad,Other,High,2025-04-30,2026-09-25,20,1287.11,29990.57,Home & Kitchen,App,Returning,59,2,Retained,Mid Value,Silver
+CUST0163,Myra Joshi,28,Non-binary,Mumbai,Business Owner,High,2023-02-18,2026-07-28,8,1868.73,12253.15,Home & Kitchen,App,Returning,83,4,At Risk,Mid Value,Bronze
+CUST0164,Aditi Patel,63,Non-binary,Hyderabad,Analyst,Middle,2022-09-29,2026-07-13,12,1590.64,21474.54,Fashion,App,Returning,31,3,At Risk,Mid Value,Bronze
+CUST0165,Advik Das,38,Female,Mysuru,Designer,High,2023-01-03,2026-07-30,4,4140.16,16163.12,Books,App,Returning,50,4,At Risk,Low Value,Bronze
+CUST0166,Tara Shetty,26,Prefer not to say,Pune,Student,Low,2024-07-18,2026-09-19,12,7630.45,86882.56,Electronics,App,Returning,51,4,Retained,High Value,Gold
+CUST0167,Meera Pillai,35,Female,Pune,Business Owner,Low,2023-12-23,2026-03-01,1,8854.31,7340.15,Home & Kitchen,App,Returning,31,4,Churned,Low Value,Bronze
+CUST0168,Kabir Das,22,Male,Mangaluru,Healthcare,High,2022-12-01,2026-08-01,3,3976.53,10769.49,Books,Offline,Returning,27,2,At Risk,Low Value,Bronze
+CUST0169,Rohan Singh,69,Female,Mysuru,Engineer,Middle,2026-07-02,2026-08-22,1,3493.7,2830.93,Home & Kitchen,Online,New,44,5,Retained,Low Value,Bronze
+CUST0170,Advik Reddy,64,Male,Chennai,Analyst,High,2024-05-29,2026-09-09,10,7241.39,59131.24,Books,Offline,Returning,93,3,Retained,Mid Value,Silver
+CUST0171,Aditi Iyer,59,Female,Hyderabad,Government,High,2025-05-03,2026-01-22,2,1269.26,2858.94,Sports,App,Returning,55,3,Churned,Low Value,Bronze
+CUST0172,Sneha Khan,36,Female,Hyderabad,Designer,Middle,2023-02-23,2026-08-07,4,8962.71,27368.97,Electronics,Online,Returning,80,3,Retained,Low Value,Silver
+CUST0173,Kavya Joshi,61,Male,Kochi,IT Professional,Low,2023-10-02,2026-10-19,8,999.76,9552.6,Sports,Online,Returning,87,5,Retained,Mid Value,Bronze
+CUST0174,Nisha Singh,43,Female,Coimbatore,Government,High,2026-06-23,2026-08-24,4,714.42,2229.66,Fashion,Offline,New,79,5,Retained,Low Value,Bronze
+CUST0175,Sana Singh,45,Male,Bengaluru,Healthcare,Low,2026-01-31,2026-09-24,4,5028.44,17128.85,Beauty,Online,New,96,2,Retained,Low Value,Bronze
+CUST0176,Meera Das,40,Non-binary,Chennai,Engineer,Low,2024-01-05,2026-09-28,8,853.51,7395.08,Books,Offline,Returning,32,2,At Risk,Mid Value,Bronze
+CUST0177,Ira Das,50,Non-binary,Bengaluru,Designer,High,2025-11-22,2026-08-16,10,618.61,7136.0,Fashion,Offline,New,88,2,Retained,Mid Value,Bronze
+CUST0178,Diya Das,41,Prefer not to say,Chennai,Teacher,Low,2025-09-02,2026-09-26,4,1291.58,5357.25,Sports,App,Returning,16,3,At Risk,Low Value,Bronze
+CUST0179,Meera Nair,69,Female,Delhi,IT Professional,Middle,2022-11-17,2026-08-29,5,3294.49,15782.72,Grocery,Offline,Returning,30,2,At Risk,Mid Value,Bronze
+CUST0180,Kavya Shetty,49,Male,Coimbatore,Healthcare,Low,2024-10-23,2026-08-31,4,5410.79,16318.61,Electronics,Offline,Returning,46,5,Retained,Low Value,Bronze
+CUST0181,Ananya Nair,51,Male,Delhi,Designer,Low,2026-06-03,2026-06-08,4,3519.78,16469.57,Fashion,App,New,63,4,At Risk,Low Value,Bronze
+CUST0182,Dev Patel,58,Prefer not to say,Mysuru,Other,High,2024-12-25,2026-08-23,2,8779.66,21047.37,Electronics,Offline,Returning,25,2,At Risk,Low Value,Bronze
+CUST0183,Advik Iyer,32,Female,Hyderabad,Teacher,High,2022-11-03,2026-05-31,20,2516.46,44314.63,Electronics,Online,Returning,56,4,At Risk,Mid Value,Silver
+CUST0184,Rohan Patel,69,Non-binary,Mangaluru,Student,Low,2025-12-17,2026-10-02,3,4614.4,13196.12,Grocery,Offline,New,48,2,Retained,Low Value,Bronze
+CUST0185,Reyansh Pillai,46,Male,Mysuru,Designer,Low,2025-09-21,2026-10-03,2,2621.2,4864.27,Grocery,Online,Returning,37,2,Retained,Low Value,Bronze
+CUST0186,Neel Shetty,34,Female,Bengaluru,IT Professional,Low,2025-11-15,2026-09-06,1,7947.91,9865.61,Books,Offline,New,97,2,Retained,Low Value,Bronze
+CUST0187,Sneha Khan,49,Female,Delhi,Analyst,Low,2025-10-31,2026-10-16,2,8102.57,18707.92,Home & Kitchen,Online,New,88,5,Retained,Low Value,Bronze
+CUST0188,Tara Das,21,Female,Mumbai,Analyst,Low,2025-07-03,2026-08-10,4,4431.0,14610.17,Beauty,Online,Returning,78,5,Retained,Low Value,Bronze
+CUST0189,Tara Mehta,49,Non-binary,Mangaluru,Government,Middle,2022-12-13,2026-07-18,15,5161.2,82479.37,Beauty,Offline,Returning,60,5,At Risk,High Value,Gold
+CUST0190,Aman Shetty,32,Male,Mysuru,Healthcare,High,2025-07-18,2026-06-15,1,5813.61,4445.39,Fashion,Offline,Returning,75,4,At Risk,Low Value,Bronze
+CUST0191,Aditi Shetty,38,Non-binary,Mangaluru,Student,High,2023-07-25,2026-09-19,12,8742.92,81619.11,Books,Offline,Returning,37,3,Retained,High Value,Gold
+CUST0192,Rohan Sharma,32,Male,Bengaluru,Government,Middle,2023-05-16,2026-09-24,6,5502.45,27868.26,Electronics,Offline,Returning,77,2,Retained,Mid Value,Silver
+CUST0193,Aman Rao,51,Non-binary,Mysuru,Engineer,High,2023-02-10,2026-09-20,3,1543.98,5134.36,Books,Offline,Returning,90,3,Retained,Low Value,Bronze
+CUST0194,Meera Singh,53,Non-binary,Hyderabad,Other,Low,2023-04-08,2025-11-09,2,3111.15,5091.25,Beauty,Offline,Returning,98,4,Churned,Low Value,Bronze
+CUST0195,Myra Nair,58,Female,Kochi,Teacher,Middle,2022-09-10,2026-09-27,4,1976.03,5935.2,Books,Online,Returning,92,4,Retained,Low Value,Bronze
+CUST0196,Aarav Iyer,31,Male,Mysuru,Engineer,Middle,2025-03-21,2026-09-13,4,3273.6,13986.04,Grocery,Online,Returning,57,5,Retained,Low Value,Bronze
+CUST0197,Ananya Pillai,48,Male,Chennai,Designer,Low,2026-07-19,2026-05-29,1,4359.71,4184.57,Grocery,Online,New,59,5,At Risk,Low Value,Bronze
+CUST0198,Vivaan Shetty,57,Prefer not to say,Bengaluru,Analyst,High,2024-11-25,2026-09-08,1,2739.32,2197.93,Fashion,App,Returning,85,2,Retained,Low Value,Bronze
+CUST0199,Pooja Iyer,37,Male,Mysuru,Student,Middle,2024-02-13,2026-08-23,3,1276.51,3265.73,Sports,App,Returning,84,4,Retained,Low Value,Bronze
+CUST0200,Aarav Nair,28,Non-binary,Mysuru,Designer,Low,2023-10-20,2026-07-28,3,3651.58,10558.21,Home & Kitchen,Offline,Returning,40,2,At Risk,Low Value,Bronze
+CUST0201,Advik Sharma,34,Prefer not to say,Kochi,Business Owner,Low,2023-11-30,2026-06-27,6,6398.52,30542.76,Grocery,Offline,Returning,62,3,At Risk,Mid Value,Silver
+CUST0202,Tara Sharma,42,Prefer not to say,Coimbatore,Designer,High,2023-05-23,2026-10-17,2,7232.95,15677.19,Fashion,Offline,Returning,90,3,Retained,Low Value,Bronze
+CUST0203,Ananya Mehta,46,Male,Chennai,Healthcare,Low,2024-11-16,2026-08-13,2,8610.41,19066.08,Fashion,Online,Returning,94,3,Retained,Low Value,Bronze
+CUST0204,Reyansh Joshi,43,Non-binary,Mumbai,Government,Middle,2024-03-06,2026-09-23,2,6600.6,11233.69,Grocery,Online,Returning,23,2,At Risk,Low Value,Bronze
+CUST0205,Neel Mehta,24,Non-binary,Coimbatore,Engineer,Middle,2023-01-22,2026-09-09,6,7502.42,36293.38,Home & Kitchen,Offline,Returning,27,2,At Risk,Mid Value,Silver
+CUST0206,Reyansh Verma,39,Male,Bengaluru,Designer,Middle,2022-11-18,2026-08-24,6,5922.0,27314.62,Home & Kitchen,Online,Returning,66,2,Retained,Mid Value,Silver
+CUST0207,Sana Singh,46,Non-binary,Mumbai,Analyst,High,2024-08-29,2026-10-04,12,3122.95,33359.6,Books,Online,Returning,44,3,Retained,Mid Value,Silver
+CUST0208,Rohan Iyer,63,Prefer not to say,Chennai,Government,High,2025-07-02,2026-05-15,5,8707.91,41518.67,Electronics,Online,Returning,80,3,At Risk,Mid Value,Silver
+CUST0209,Advik Joshi,43,Female,Bengaluru,Healthcare,Middle,2025-06-22,2026-08-20,15,2186.65,25544.9,Beauty,App,Returning,50,4,Retained,Mid Value,Silver
+CUST0210,Aarav Khan,21,Male,Mangaluru,Healthcare,Low,2024-01-20,2026-08-27,3,8314.9,26028.3,Books,Online,Returning,26,4,At Risk,Low Value,Silver
+CUST0211,Myra Mehta,18,Male,Mumbai,Other,Middle,2022-10-03,2026-07-31,3,6312.02,19061.81,Books,App,Returning,31,3,At Risk,Low Value,Bronze
+CUST0212,Neel Rao,18,Non-binary,Coimbatore,Other,High,2022-12-13,2026-10-05,4,8543.67,40182.35,Home & Kitchen,Offline,Returning,81,5,Retained,Mid Value,Silver
+CUST0213,Kabir Patel,51,Male,Bengaluru,Other,Middle,2022-09-19,2026-08-29,2,934.11,2324.4,Books,Offline,Returning,98,4,Retained,Low Value,Bronze
+CUST0214,Vivaan Singh,63,Male,Coimbatore,Designer,High,2022-09-26,2026-10-10,3,582.92,1746.46,Home & Kitchen,App,Returning,19,3,At Risk,Low Value,Bronze
+CUST0215,Pooja Verma,39,Female,Hyderabad,Engineer,Low,2024-11-14,2026-10-14,12,8041.84,114668.34,Books,Offline,Returning,48,3,Retained,High Value,Platinum
+CUST0216,Ira Verma,30,Female,Delhi,Government,Middle,2024-03-12,2026-10-10,12,3381.55,35720.51,Beauty,Online,Returning,96,2,Retained,Mid Value,Silver
+CUST0217,Ira Reddy,58,Male,Pune,Student,Low,2025-09-16,2026-10-01,3,2182.71,6250.82,Beauty,Offline,Returning,38,2,Retained,Low Value,Bronze
+CUST0218,Reyansh Khan,48,Prefer not to say,Bengaluru,Student,High,2025-05-19,2026-07-30,10,1892.74,21430.39,Fashion,App,Returning,96,5,At Risk,Mid Value,Bronze
+CUST0219,Kiran Verma,40,Non-binary,Chennai,IT Professional,Middle,2024-06-17,2026-10-03,20,8511.86,192099.72,Sports,App,Returning,46,3,Retained,High Value,Platinum
+CUST0220,Vivaan Verma,49,Non-binary,Hyderabad,Teacher,Middle,2024-11-02,2026-08-20,3,7888.17,21276.79,Electronics,Online,Returning,70,3,Retained,Low Value,Bronze
+CUST0221,Reyansh Verma,58,Non-binary,Coimbatore,Other,Low,2025-04-18,2026-10-01,10,1550.53,17320.01,Sports,Online,Returning,98,2,Retained,Mid Value,Bronze
+CUST0222,Kiran Patel,31,Female,Mumbai,Analyst,High,2022-11-04,2026-10-16,2,8000.5,12386.65,Electronics,App,Returning,47,5,Retained,Low Value,Bronze
+CUST0223,Ananya Mehta,24,Prefer not to say,Hyderabad,Other,Low,2023-08-21,2026-07-23,4,5891.55,19290.86,Grocery,Offline,Returning,30,4,At Risk,Low Value,Bronze
+CUST0224,Aditi Sharma,18,Female,Mysuru,Other,High,2023-08-15,2026-05-11,20,3624.98,69228.28,Beauty,Online,Returning,76,4,At Risk,Mid Value,Gold
+CUST0225,Advik Sharma,24,Male,Bengaluru,Business Owner,Middle,2026-01-18,2026-09-02,10,1036.69,11525.8,Grocery,App,New,52,4,Retained,Mid Value,Bronze
+CUST0226,Kavya Verma,46,Non-binary,Mysuru,Engineer,Middle,2024-10-19,2026-09-16,5,1410.49,8291.02,Fashion,Online,Returning,36,4,Retained,Mid Value,Bronze
+CUST0227,Ishaan Singh,64,Female,Chennai,IT Professional,Middle,2024-04-22,2026-07-26,5,4527.33,26436.31,Sports,Offline,Returning,36,2,At Risk,Mid Value,Silver
+CUST0228,Ira Rao,44,Prefer not to say,Bengaluru,IT Professional,Middle,2023-05-13,2026-07-17,8,2008.53,15102.14,Books,Offline,Returning,31,5,At Risk,Mid Value,Bronze
+CUST0229,Dev Joshi,62,Female,Delhi,Healthcare,Middle,2026-06-26,2026-02-23,10,6553.05,74296.15,Home & Kitchen,App,New,100,4,Churned,Mid Value,Gold
+CUST0230,Ira Pillai,28,Female,Kochi,Engineer,Low,2022-10-05,2026-08-10,8,1710.19,15914.6,Home & Kitchen,Offline,Returning,35,5,Retained,Mid Value,Bronze
+CUST0231,Rohan Pillai,49,Prefer not to say,Pune,IT Professional,Middle,2026-04-09,2026-09-23,6,5387.03,30360.83,Books,App,New,88,5,Retained,Mid Value,Silver
+CUST0232,Dev Joshi,31,Prefer not to say,Pune,Engineer,Low,2026-06-15,2025-11-18,2,4122.9,8481.35,Grocery,Online,New,96,4,Churned,Low Value,Bronze
+CUST0233,Aarav Reddy,40,Non-binary,Coimbatore,Government,Middle,2024-01-03,2026-09-27,4,7371.86,30961.09,Books,Online,Returning,99,3,Retained,Mid Value,Silver
+CUST0234,Ananya Verma,43,Male,Kochi,Healthcare,High,2026-04-19,2026-09-26,15,4855.66,84555.44,Home & Kitchen,Online,New,40,3,Retained,High Value,Gold
+CUST0235,Ira Sharma,51,Female,Coimbatore,Analyst,High,2024-03-25,2026-07-31,1,6144.15,6672.98,Beauty,App,Returning,79,3,At Risk,Low Value,Bronze
+CUST0236,Nisha Shetty,62,Male,Mumbai,Analyst,Middle,2025-07-24,2026-08-25,10,1938.9,22445.13,Home & Kitchen,Offline,Returning,56,5,Retained,Mid Value,Bronze
+CUST0237,Kabir Nair,57,Non-binary,Pune,Teacher,High,2025-10-21,2026-04-22,3,5863.1,20987.88,Books,Online,New,85,3,At Risk,Low Value,Bronze
+CUST0238,Pooja Singh,52,Non-binary,Delhi,Student,High,2023-09-24,2026-08-27,6,6177.43,40962.9,Electronics,Online,Returning,100,5,Retained,Mid Value,Silver
+CUST0239,Kiran Mehta,36,Male,Coimbatore,Student,Middle,2024-06-01,2026-07-30,3,6482.83,16530.27,Grocery,Offline,Returning,33,2,At Risk,Low Value,Bronze
+CUST0240,Kiran Kulkarni,21,Prefer not to say,Delhi,Analyst,High,2025-12-24,2026-10-12,8,6531.06,53865.18,Home & Kitchen,App,New,80,4,Retained,Mid Value,Silver
+CUST0241,Aman Shetty,52,Male,Hyderabad,Business Owner,Middle,2026-04-02,2026-05-25,1,2649.77,2809.5,Fashion,App,New,97,4,At Risk,Low Value,Bronze
+CUST0242,Neel Pillai,34,Female,Pune,Designer,High,2026-02-19,2026-09-16,3,1940.23,5860.99,Fashion,Online,New,31,3,At Risk,Low Value,Bronze
+CUST0243,Rohan Mehta,63,Non-binary,Coimbatore,Healthcare,Low,2025-09-10,2026-08-10,15,5811.46,99099.67,Sports,Online,Returning,88,4,Retained,High Value,Gold
+CUST0244,Kabir Mehta,57,Prefer not to say,Coimbatore,Student,Low,2023-09-21,2026-10-08,3,5319.18,15186.93,Books,Offline,Returning,61,4,Retained,Low Value,Bronze
+CUST0245,Arjun Joshi,64,Non-binary,Bengaluru,Government,Middle,2024-01-21,2026-10-12,4,6226.72,30119.98,Sports,App,Returning,29,5,At Risk,Mid Value,Silver
+CUST0246,Rahul Rao,31,Male,Delhi,IT Professional,Low,2024-01-21,2026-10-09,6,3062.37,19766.33,Sports,App,Returning,83,2,Retained,Mid Value,Bronze
+CUST0247,Meera Mehta,34,Female,Mangaluru,Healthcare,Middle,2024-02-11,2026-10-15,8,8948.72,80427.19,Beauty,Offline,Returning,24,2,At Risk,High Value,Gold
+CUST0248,Aman Singh,55,Female,Mysuru,Engineer,High,2024-01-10,2026-09-11,8,4312.18,26164.43,Electronics,Offline,Returning,94,2,Retained,Mid Value,Silver
+CUST0249,Ishaan Singh,43,Non-binary,Chennai,Business Owner,High,2022-09-16,2026-10-05,4,1141.52,5171.71,Grocery,App,Returning,35,3,Retained,Low Value,Bronze
+CUST0250,Tara Joshi,23,Non-binary,Hyderabad,Engineer,Low,2022-12-03,2026-10-02,5,9037.61,46397.38,Beauty,App,Returning,91,5,Retained,Mid Value,Silver
+CUST0251,Aman Verma,53,Prefer not to say,Coimbatore,IT Professional,Middle,2023-09-06,2026-09-06,3,2033.53,6457.12,Books,Online,Returning,87,2,Retained,Low Value,Bronze
+CUST0252,Myra Rao,30,Non-binary,Kochi,Designer,Middle,2025-02-23,2026-08-27,2,6989.14,13888.75,Sports,App,Returning,27,4,At Risk,Low Value,Bronze
+CUST0253,Kiran Singh,59,Prefer not to say,Mumbai,Engineer,Low,2024-11-02,2026-09-24,10,1744.41,18027.27,Books,App,Returning,46,3,Retained,Mid Value,Bronze
+CUST0254,Arjun Pillai,70,Male,Coimbatore,Healthcare,Middle,2024-09-10,2026-10-10,15,4585.06,63918.31,Books,App,Returning,92,2,Retained,Mid Value,Gold
+CUST0255,Diya Joshi,34,Prefer not to say,Chennai,Engineer,Middle,2026-02-15,2026-09-29,10,8512.76,100007.36,Fashion,App,New,90,3,Retained,High Value,Platinum
+CUST0256,Aman Joshi,26,Prefer not to say,Chennai,Teacher,High,2024-12-03,2026-10-08,3,4935.28,11774.74,Sports,App,Returning,93,3,Retained,Low Value,Bronze
+CUST0257,Diya Kulkarni,31,Non-binary,Delhi,Designer,Middle,2025-09-25,2026-10-12,10,4774.06,44370.01,Electronics,Online,Returning,62,3,Retained,Mid Value,Silver
+CUST0258,Rahul Khan,41,Female,Coimbatore,Business Owner,Middle,2022-12-01,2026-09-01,4,6789.19,27446.97,Fashion,App,Returning,37,5,Retained,Low Value,Silver
+CUST0259,Meera Nair,22,Non-binary,Hyderabad,Teacher,Low,2024-04-11,2026-07-24,5,8289.63,41175.87,Fashion,Offline,Returning,32,5,At Risk,Mid Value,Silver
+CUST0260,Neel Patel,59,Prefer not to say,Bengaluru,Healthcare,Low,2023-03-07,2026-08-28,10,1432.72,12395.51,Fashion,App,Returning,76,3,Retained,Mid Value,Bronze
+CUST0261,Myra Shetty,58,Female,Mumbai,IT Professional,Low,2023-03-26,2026-10-01,3,6110.29,14107.35,Beauty,App,Returning,38,5,Retained,Low Value,Bronze
+CUST0262,Meera Singh,61,Non-binary,Kochi,Other,High,2023-11-29,2026-09-09,15,1910.69,33394.52,Electronics,Online,Returning,80,4,Retained,Mid Value,Silver
+CUST0263,Meera Das,57,Female,Coimbatore,Government,Low,2024-06-07,2026-09-22,5,1343.42,5717.42,Electronics,Offline,Returning,34,2,At Risk,Mid Value,Bronze
+CUST0264,Diya Singh,51,Prefer not to say,Hyderabad,Designer,Middle,2022-11-09,2026-09-21,3,5871.79,20500.08,Home & Kitchen,App,Returning,68,4,Retained,Low Value,Bronze
+CUST0265,Arjun Nair,18,Female,Mangaluru,Government,Low,2023-04-29,2026-07-22,2,1575.03,3114.06,Sports,Online,Returning,84,5,At Risk,Low Value,Bronze
+CUST0266,Tara Khan,54,Non-binary,Mangaluru,Business Owner,High,2024-06-13,2026-09-12,8,6643.07,48252.65,Beauty,Online,Returning,47,4,Retained,Mid Value,Silver
+CUST0267,Aman Singh,43,Male,Mysuru,Healthcare,Middle,2024-03-27,2026-02-16,6,5451.7,27455.63,Grocery,App,Returning,88,4,Churned,Mid Value,Silver
+CUST0268,Reyansh Kulkarni,18,Female,Chennai,Designer,High,2025-08-24,2026-08-14,2,5001.34,11433.47,Beauty,Online,Returning,21,3,At Risk,Low Value,Bronze
+CUST0269,Aman Pillai,29,Prefer not to say,Kochi,Student,Low,2026-03-12,2026-08-25,4,3743.14,15788.78,Grocery,App,New,51,2,Retained,Low Value,Bronze
+CUST0270,Aditi Kulkarni,18,Male,Mysuru,Business Owner,Middle,2023-08-25,2026-10-03,4,657.53,2760.99,Home & Kitchen,App,Returning,19,4,At Risk,Low Value,Bronze
+CUST0271,Kavya Pillai,35,Male,Mangaluru,Healthcare,Middle,2024-05-03,2026-09-27,5,2182.84,8269.51,Beauty,App,Returning,86,4,Retained,Mid Value,Bronze
+CUST0272,Tara Pillai,68,Non-binary,Kochi,Analyst,High,2026-07-12,2026-01-24,4,4075.28,13093.59,Beauty,Online,New,80,4,Churned,Low Value,Bronze
+CUST0273,Rahul Mehta,32,Male,Pune,Analyst,Middle,2024-08-25,2026-10-01,20,4548.46,89182.58,Sports,App,Returning,23,5,At Risk,High Value,Gold
+CUST0274,Vivaan Reddy,31,Non-binary,Chennai,Healthcare,Middle,2026-07-02,2026-08-06,10,2759.65,24661.47,Books,Online,New,37,5,Retained,Mid Value,Bronze
+CUST0275,Rohan Kulkarni,60,Prefer not to say,Mangaluru,Student,High,2025-03-28,2026-10-13,10,8335.59,71135.03,Electronics,Offline,Returning,28,2,At Risk,Mid Value,Gold
+CUST0276,Reyansh Nair,66,Male,Bengaluru,Government,Middle,2024-06-21,2026-09-21,8,4854.91,48264.82,Beauty,App,Returning,80,4,Retained,Mid Value,Silver
+CUST0277,Aarav Kulkarni,31,Prefer not to say,Mangaluru,IT Professional,Middle,2026-05-16,2026-08-20,6,3952.51,25924.58,Home & Kitchen,App,New,55,2,Retained,Mid Value,Silver
+CUST0278,Nisha Singh,66,Non-binary,Pune,Analyst,Middle,2025-02-05,2026-09-19,3,2755.07,7312.27,Beauty,Online,Returning,69,3,Retained,Low Value,Bronze
+CUST0279,Ishaan Mehta,65,Male,Kochi,Student,Low,2023-05-08,2026-08-03,3,5619.42,14570.31,Beauty,Offline,Returning,63,3,At Risk,Low Value,Bronze
+CUST0280,Reyansh Rao,62,Male,Bengaluru,Healthcare,Middle,2025-10-19,2026-09-26,20,8121.92,163819.69,Beauty,App,Returning,87,2,Retained,High Value,Platinum
+CUST0281,Pooja Shetty,30,Male,Mumbai,Engineer,Middle,2026-01-05,2026-10-02,5,3412.11,15874.52,Books,App,New,30,4,At Risk,Mid Value,Bronze
+CUST0282,Nisha Kulkarni,57,Prefer not to say,Mysuru,IT Professional,Low,2023-10-27,2025-11-11,10,4439.41,35035.99,Home & Kitchen,Online,Returning,36,4,Churned,Mid Value,Silver
+CUST0283,Nisha Patel,29,Female,Chennai,Healthcare,High,2024-10-17,2026-06-16,4,3015.91,10661.08,Home & Kitchen,App,Returning,61,5,At Risk,Low Value,Bronze
+CUST0284,Ananya Iyer,57,Male,Mysuru,Analyst,Middle,2026-02-08,2026-09-20,3,3982.97,9532.56,Fashion,Online,New,65,2,Retained,Low Value,Bronze
+CUST0285,Advik Pillai,52,Non-binary,Coimbatore,Designer,Low,2024-12-17,2026-10-14,5,1506.67,7634.08,Books,App,Returning,56,5,Retained,Mid Value,Bronze
+CUST0286,Kavya Das,52,Male,Mysuru,Designer,Middle,2025-07-24,2026-08-13,8,4527.37,40726.62,Home & Kitchen,Offline,Returning,83,4,Retained,Mid Value,Silver
+CUST0287,Kiran Verma,49,Prefer not to say,Mumbai,Student,Middle,2025-02-04,2026-09-25,3,446.59,1355.39,Grocery,Offline,Returning,83,2,Retained,Low Value,Bronze
+CUST0288,Reyansh Nair,34,Female,Delhi,Healthcare,High,2023-03-17,2026-10-06,4,416.04,1559.02,Grocery,App,Returning,35,5,Retained,Low Value,Bronze
+CUST0289,Rahul Das,57,Prefer not to say,Mumbai,Other,Middle,2022-09-18,2026-10-11,4,6283.38,25534.96,Fashion,Offline,Returning,52,2,Retained,Low Value,Silver
+CUST0290,Rohan Patel,18,Prefer not to say,Hyderabad,Engineer,Middle,2026-06-12,2026-08-31,3,9222.9,21057.69,Home & Kitchen,Offline,New,16,3,At Risk,Low Value,Bronze
+CUST0291,Tara Das,29,Male,Mumbai,Analyst,Low,2024-06-21,2026-09-23,5,7591.54,34736.01,Electronics,App,Returning,65,2,Retained,Mid Value,Silver
+CUST0292,Reyansh Kulkarni,37,Non-binary,Chennai,Student,High,2025-02-27,2026-09-06,5,9271.0,40494.85,Sports,App,Returning,41,5,Retained,Mid Value,Silver
+CUST0293,Vivaan Sharma,28,Non-binary,Mangaluru,IT Professional,Middle,2025-11-13,2026-02-25,4,6192.46,21038.56,Grocery,Online,New,45,5,Churned,Low Value,Bronze
+CUST0294,Ira Rao,61,Non-binary,Bengaluru,Student,Middle,2026-07-03,2026-07-01,20,5666.85,124146.6,Books,Online,New,46,3,At Risk,High Value,Platinum
+CUST0295,Aarav Singh,42,Non-binary,Chennai,Business Owner,Low,2023-07-19,2026-04-29,12,1501.32,15607.79,Beauty,App,Returning,71,3,At Risk,Mid Value,Bronze
+CUST0296,Myra Verma,53,Male,Mysuru,Government,Low,2024-02-06,2026-10-01,6,5316.02,31738.11,Beauty,Offline,Returning,74,4,Retained,Mid Value,Silver
+CUST0297,Vivaan Singh,22,Prefer not to say,Hyderabad,Government,High,2025-01-28,2026-08-25,6,4504.82,30757.8,Beauty,App,Returning,61,3,Retained,Mid Value,Silver
+CUST0298,Diya Nair,24,Prefer not to say,Hyderabad,IT Professional,Low,2025-09-09,2026-10-16,8,3301.79,28275.26,Sports,App,Returning,31,3,At Risk,Mid Value,Silver
+CUST0299,Kabir Kulkarni,49,Female,Kochi,Student,Middle,2024-05-17,2026-09-15,8,5161.27,45446.3,Sports,App,Returning,24,2,At Risk,Mid Value,Silver
+CUST0300,Kabir Joshi,24,Female,Hyderabad,Government,Middle,2024-03-22,2026-09-01,12,7617.38,71220.98,Fashion,Online,Returning,53,2,Retained,Mid Value,Gold
